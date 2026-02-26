@@ -78,7 +78,8 @@
 
 ### Clone & Setup (1 minute)
 ```bash
-git clone https://github.com/SkillDevloper/PRMS-Patient-Record-Management-System-Medinova-.git PRMS
+git clone https://github.com/SkillDevloper/PRMS-Patient-Record-Management-System-Medinova-.git
+Rename to "PRMS"
 cd PRMS
 ```
 
@@ -94,7 +95,7 @@ Then follow the [Installation](#installation) steps below.
 
 ### Step 2: Clone Repository
 ```bash
-git clone https://github.com/SkillDevloper/PRMS-Patient-Record-Management-System-Medinova-.git PRMS
+git clone https://github.com/SkillDevloper/PRMS-Patient-Record-Management-System-Medinova-.git
 ```
 
 ### Step 3: Place in XAMPP
